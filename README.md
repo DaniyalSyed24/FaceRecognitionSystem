@@ -1,5 +1,5 @@
 # FaceRecognitionSystem
-Y2 Artificial Intelligence I Project
+Y2 Artificial Intelligence & Machine Learning I Project
 
 
 A face recognition system capable of distinguishing human face
